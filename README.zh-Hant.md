@@ -1,6 +1,9 @@
 # Infinite Flight 自訂塗裝
 
-[English](README.md) · **繁體中文** · [Deutsch](README.de.md)
+[English](README.md) · **繁體中文** · [Deutsch](README.de.md) · [日本語](README.ja.md) · [Français](README.fr.md) · [Español](README.es.md) · [Русский](README.ru.md) · [Português](README.pt.md) · [한국어](README.ko.md) · [Bahasa Indonesia](README.id.md)
+
+> [!IMPORTANT]
+> 這些套件**僅適用於 iOS**。你的 Infinite Flight 帳戶必須能夠進入**地景編輯器（Scenery Editor）**，並透過該功能匯入替換套件。所有套件均會替換相應機型的純白色 **Generic** 塗裝。下載後請保持 ZIP 格式，不要解壓縮。匯入完成後，請從 iOS 多工畫面徹底關閉 Infinite Flight，再重新開啟遊戲並選擇已被替換的 **Generic** 塗裝。
 
 本儲存庫收錄由玩家製作的 Infinite Flight 自訂塗裝。
 
@@ -13,30 +16,10 @@ Infinite Flight 的官方塗裝更新通常需要較長時間，部分舊型機�
 - 可供 iOS 匯入的 ZIP 套件
 - 不定期新增、修正及重新打包
 
-## 安裝方法
-
-1. 選擇需要的機型及塗裝。
-2. 下載相應的 ZIP 套件。
-3. 請保持 ZIP 格式，不要在裝置上解壓縮。
-4. 使用支援的 Infinite Flight 自訂塗裝匯入方式進行匯入。
-5. 如塗裝沒有立即更新，可重新啟動 Infinite Flight 或清除相關快取。
-
-自訂塗裝通常只會在自己的裝置上顯示。其他連線玩家一般仍會看到被替換的原始官方塗裝。
-
 ## 使用工具
 
-本儲存庫中的套件使用以下開源專案協助定位及打包：
-
-[Infinite Flight Livery Pipeline](https://github.com/kitalikesfreedom/infinite-flight-livery-pipeline)
-
-原工具採用 MIT License 發布，原工具的相關權利仍歸其作者所有。
+本儲存庫中的套件使用 [Infinite Flight Livery Pipeline](https://github.com/kitalikesfreedom/infinite-flight-livery-pipeline) 協助定位及打包。原工具採用 MIT License 發布，相關權利仍歸其作者所有。
 
 ## 免責聲明
 
-本專案為非官方、非營利的玩家創作專案，與 Infinite Flight、Flying Development Studio、任何航空公司及其合作夥伴均無從屬、授權或合作關係。
-
-所有航空公司名稱、標誌、商標及其他品牌元素的權利均歸其各自權利人所有。本專案僅將相關內容用於個人、教育、研究及飛行模擬用途。
-
-如相關權利人要求修改或移除特定內容，請透過 GitHub Issue 聯絡儲存庫管理者。
-
-Infinite Flight 後續更新可能導致部分套件失效。
+本專案為非官方、非營利的玩家創作專案，與 Infinite Flight、Flying Development Studio、任何航空公司及其合作夥伴均無從屬、授權或合作關係。所有航空公司名稱、標誌、商標及其他品牌元素的權利均歸其各自權利人所有，本專案僅將相關內容用於個人、教育及飛行模擬用途。權利人可透過 GitHub Issue 要求修改或移除特定內容。Infinite Flight 後續更新可能導致部分套件失效。
